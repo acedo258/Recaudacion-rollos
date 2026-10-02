@@ -1,0 +1,9 @@
+{
+  "people": [
+    { "name": "Mama",  "count": 7, "photos": [] },
+    { "name": "Papa",  "count": 0, "photos": [] },
+    { "name": "María", "count": 0, "photos": [] },
+    { "name": "Iván",  "count": 0, "photos": [] },
+    { "name": "Lucia", "count": 0, "photos": [] }
+  ]
+}
