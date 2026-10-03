@@ -1,7 +1,7 @@
 {
   "people": [
     { "name": "Mama",  "count": 0, "photos": [] },
-    { "name": "Papa",  "count": 2, "photos": [IMG-20261002-WA0028.jpg] },
+    { "name": "Papa",  "count": 2, "photos": [] },
     { "name": "Maria", "count": 0, "photos": [] },
     { "name": "Ivan",  "count": 0, "photos": [] },
     { "name": "Lucia", "count": 0, "photos": [] }
