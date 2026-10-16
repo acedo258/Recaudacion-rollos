@@ -2,7 +2,7 @@
   "people": [
     { "name": "Mama",  "count": 3, "photos": [] },
     { "name": "Papa",  "count": 2, "photos": [] },
-    { "name": "Maria", "count": 6, "photos": [] },
+    { "name": "Maria", "count": 9, "photos": [] },
     { "name": "Ivan",  "count": 0, "photos": [] },
     { "name": "Lucia", "count": 5, "photos": [] }
   ]
